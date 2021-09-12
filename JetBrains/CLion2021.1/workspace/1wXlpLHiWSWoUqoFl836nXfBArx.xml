@@ -1,0 +1,255 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="127" column="10" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Snap.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Csg.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cr.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cdh.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/Csg.h" />
+      <option value="$PROJECT_DIR$/Cdh.h" />
+      <option value="$PROJECT_DIR$/Cr.h" />
+      <option value="$PROJECT_DIR$/Snap.h" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$USER_HOME$/Downloads" commandHistoryFileName="Lab2SNAP-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10714000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23564816" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32994792" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40026042" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32994792" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32994792" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.31953126" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32994792" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>CMake</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="118" y="723" width="844" height="504" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628743427355">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="118" y="723" width="844" height="504" key="#com.intellij.execution.impl.EditConfigurationsDialog/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628743427355" />
+    <state width="523" height="102" key="DebuggerActiveHint" timestamp="1628742153355">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="523" height="102" key="DebuggerActiveHint/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628742153355" />
+    <state x="237" y="748" key="FileChooserDialogImpl" timestamp="1628745340909">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="237" y="748" key="FileChooserDialogImpl/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745340909" />
+    <state width="1034" height="740" key="GridCell.Tab.0.bottom" timestamp="1628745342562">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.0.bottom/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342562" />
+    <state width="1034" height="740" key="GridCell.Tab.0.center" timestamp="1628745342561">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.0.center/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342561" />
+    <state width="1034" height="740" key="GridCell.Tab.0.left" timestamp="1628745342561">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.0.left/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342561" />
+    <state width="1034" height="740" key="GridCell.Tab.0.right" timestamp="1628745342562">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.0.right/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342562" />
+    <state width="1034" height="740" key="GridCell.Tab.1.bottom" timestamp="1628745342564">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.1.bottom/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342564" />
+    <state width="1034" height="740" key="GridCell.Tab.1.center" timestamp="1628745342563">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.1.center/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342563" />
+    <state width="1034" height="740" key="GridCell.Tab.1.left" timestamp="1628745342563">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.1.left/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342563" />
+    <state width="1034" height="740" key="GridCell.Tab.1.right" timestamp="1628745342564">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1034" height="740" key="GridCell.Tab.1.right/1080.0.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1628745342564" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Lab6Railroad/Station.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab3LinkedList/cmake-build-debug/main.cpp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Csg.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cdh.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="127" column="10" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

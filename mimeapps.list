@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+
+[Added Associations]
+text/x-chdr=jetbrains-clion.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+text/x-c++src=jetbrains-clion.desktop;

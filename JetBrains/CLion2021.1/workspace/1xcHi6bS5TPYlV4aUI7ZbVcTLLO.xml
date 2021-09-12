@@ -1,0 +1,373 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project-0-main/BookCreator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project-0-main/Book.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/project-0-main/BookCreator.cpp" />
+      <option value="$PROJECT_DIR$/project-0-main/Library.cpp" />
+      <option value="$PROJECT_DIR$/project-0-main/Book.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="byucs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byucs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="byucs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byucs" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-remote----the-mainframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="byucs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byucs" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-remote----the-mainframe" type="462c0819:PsiDirectoryNode" />
+              <item name="CMakeFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="byucs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byucs" type="462c0819:PsiDirectoryNode" />
+              <item name="project-0-main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/.." commandHistoryFileName="byucs-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25026095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.33011484" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33001894" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33001894" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.33001894" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33001894" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.27698863" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="11" weight="0.33001894" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33001894" />
+      <window_info anchor="bottom" id="clangd" order="13" />
+      <window_info anchor="bottom" id="Python Packages" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>CMake</value>
+      <value>Version Control</value>
+      <value>File Transfer</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="568" y="299" width="784" height="502" key="#Run/Debug_Configuration_Templates" timestamp="1630707746337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="568" y="299" width="784" height="502" key="#Run/Debug_Configuration_Templates/0.0.1920.1080@0.0.1920.1080" timestamp="1630707746337" />
+    <state x="544" y="3" width="832" height="1074" key="#SSH_Configurations" timestamp="1630720622310">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="544" y="3" width="832" height="1074" key="#SSH_Configurations/0.0.1920.1080@0.0.1920.1080" timestamp="1630720622310" />
+    <state x="538" y="298" width="844" height="504" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630727974635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="298" width="844" height="504" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1630727974635" />
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel" timestamp="1630704525201">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel/0.0.1920.1080@0.0.1920.1080" timestamp="1630704525201" />
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel" timestamp="1630704525200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel/0.0.1920.1080@0.0.1920.1080" timestamp="1630704525200" />
+    <state width="430" height="79" key="DebuggerActiveHint" timestamp="1630725130550">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="430" height="79" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1630725130550" />
+    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl" timestamp="1630704958899">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1630704958899" />
+    <state width="1870" height="264" key="GridCell.Tab.0.bottom" timestamp="1630729559529">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559529" />
+    <state width="1870" height="264" key="GridCell.Tab.0.center" timestamp="1630729559528">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559528" />
+    <state width="1870" height="264" key="GridCell.Tab.0.left" timestamp="1630729559528">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559528" />
+    <state width="1870" height="264" key="GridCell.Tab.0.right" timestamp="1630729559529">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559529" />
+    <state width="1870" height="264" key="GridCell.Tab.1.bottom" timestamp="1630729559531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559531" />
+    <state width="1870" height="264" key="GridCell.Tab.1.center" timestamp="1630729559530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559530" />
+    <state width="1870" height="264" key="GridCell.Tab.1.left" timestamp="1630729559530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559530" />
+    <state width="1870" height="264" key="GridCell.Tab.1.right" timestamp="1630729559531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559531" />
+    <state x="449" y="185" key="SettingsEditor" timestamp="1630720636279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1630720636279" />
+    <state x="560" y="286" key="Vcs.Push.Dialog.v2" timestamp="1630728426336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="286" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1630728426336" />
+    <state x="748" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630707691832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1630707691832" />
+    <state x="830" y="458" key="publish.login" timestamp="1630706013237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="830" y="458" key="publish.login/0.0.1920.1080@0.0.1920.1080" timestamp="1630706013237" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="inlineWatch">
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project-0-main/makefile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-remote----the-mainframe/CMakeFiles/clion-log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-remote----the-mainframe/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.1.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="552" selection-start-line="552" selection-end-line="552" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Book.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Library.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/BookListCreator.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/11.1.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="447" selection-start-line="447" selection-end-line="447" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Info.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Info.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/BookListCreator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/BookCreator.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Library.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1087" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/BookCreator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-0-main/Book.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

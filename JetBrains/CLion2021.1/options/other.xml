@@ -1,0 +1,102 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1vecvz246ByvSvSPHf1x95C8Zrq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vgwger1WdhV899hKdxh0Kz1jRI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vhlBSJsx23tJpXjwu1LqlJTk0p">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vuCG1c3WzqJUYlUO5msebYndhI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w8b6muGIhsQcwRxTty7x8AxuBi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wH2h6wXdX4JU8LZbuq0ofAtCCf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wHEzed8QSGtOCWGcFad2LeVhrM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wPf4TnwU7eRCYWvxPGA7NCJUiD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wPfcb9K31v5NITvpYeZyGlTOxg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wXlpLHiWSWoUqoFl836nXfBArx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xcHi6bS5TPYlV4aUI7ZbVcTLLO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.3254973" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-211.7628.27-20d24f050c64bd1b24ba0a580543073c00966ce1d75f2224aa55e1f2ed76a15c" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="evlsprt3.211" value="17" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Notes/CS236/byucs/project-0-main&#10;/home/carson/Documents/Notes/CS236/byucs&#10;/home/carson/Downloads/Pair.h&#10;/home/carson/Downloads/Set.h&#10;/home/carson/Downloads/HashMap.h&#10;/home/carson/Downloads/main.cpp&#10;/mnt/backups/CLionProjects/Lab9Pokemon&#10;/home/carson/Downloads/CS235_Lab08.cpp&#10;/home/carson/Downloads/BST.cpp&#10;/home/carson/Downloads/BSTInterface.cpp&#10;/home/carson/Downloads/BST.h&#10;/mnt/backups/CLionProjects/Lab8BST&#10;/mnt/backups/CLionProjects/Lab3LinkedList/cmake-build-debug/main.cpp.cpp&#10;/mnt/backups/CLionProjects/Lab6Railroad/Station.h&#10;/mnt/backups/CLionProjects/Lab2SNAP&#10;/mnt/backups/CLionProjects/Lab7_3DMaze/main.cpp&#10;/mnt/backups/CLionProjects/Lab7_3DMaze/Maze.h&#10;/mnt/backups/CLionProjects/Lab6Railroad/main.cpp&#10;/mnt/backups/CLionProjects/Lab8BST/BSTInterface.h&#10;/home/carson/Downloads&#10;/home/carson/CLionProjects/Lab6Railroad/main.cpp&#10;/mnt/backups/CLionProjects/Lab6Railroad/cmake-build-debug&#10;/mnt&#10;/mnt/backups/CLionProjects/Lab3LinkedList/cmake-build-debug/CMakeFiles/LinkedList.h&#10;/mnt/backups/CLionProjects/Lab3LinkedList/cmake-build-debug/CMakeFiles/LinkedListInterface.h&#10;/bin/clang&#10;/bin/clang++&#10;/mnt/backups/CLionProjects/Lab6Railroad/Car.h&#10;/mnt/backups/CLionProjects/Lab6Railroad/Deque.h&#10;/mnt/backups/CLionProjects/Lab6Railroad" />
+    <property name="file.gist.reindex.count" value="88" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-211.7628.27" />
+    <property name="lastSeenTip" value="neue-ShowAppliedStyles.html" />
+    <property name="lastTimeTipsWereShown" value="1630647587058" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Notes/CS236/byucs/project-0-main" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="seenTips" value="neue-InspectCode.html,neue-Switcher.html,neue-PredefinedCodeStyle.html,neue-DBTableEditor.html,neue-GoToDeclaration.html,neue-ImagesLookup.html,neue-DirDiff.html,neue-ParameterInfo.html,neue-GotoLineInFile.html,neue-CtrlD.html,neue-smart_selection.html,neue-OverrideImplementMethods.html,neue-SearchEverywhere.html,neue-CompleteStatement.html,neue-partial_git_commit.html,neue-ExtractClass.html,neue-Escape.html,neue-CtrlW.html,neue-ShowAppliedStyles.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Lab2SNAP-history" project-path="/mnt/backups/CLionProjects/Lab2SNAP" last-access-time="1628743441243" />
+      <command-history-file filename="Lab10-history" project-path="/mnt/backups/CLionProjects/Lab10" last-access-time="1628605795259" />
+      <command-history-file filename="Lab9Pokemon-history" project-path="/mnt/backups/CLionProjects/Lab9Pokemon" last-access-time="1628748817761" />
+      <command-history-file filename="byucs-history" project-path="$USER_HOME$/Documents/Notes/CS236/byucs" last-access-time="1630726232579" />
+      <command-history-file filename="Lab8BST-history" project-path="/mnt/backups/CLionProjects/Lab8BST" last-access-time="1628745345191" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

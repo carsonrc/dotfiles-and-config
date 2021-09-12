@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="schizo.cs.byu.edu" id="d171a23e-c2a4-444c-8c39-272964aa94aa" port="22" nameFormat="DESCRIPTIVE" username="cc845" />
+    </configs>
+  </component>
+</application>

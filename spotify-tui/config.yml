@@ -1,0 +1,7 @@
+#This is the config file for Spotify TUI- I have only added relevant lines.
+#See https://github.com/Rigellute/spotify-tui#configuration
+
+
+behavior:
+    #sets time between refreshes on music visualizer, lower means higher framerate
+    tick_rate_milliseconds: 62

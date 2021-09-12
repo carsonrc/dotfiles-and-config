@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="Test" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/bin/clang" customCXXCompilerPath="/bin/clang++" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="the mAiNFrAmE" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="f4036250-126d-45a4-8960-edcda5231e05" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>

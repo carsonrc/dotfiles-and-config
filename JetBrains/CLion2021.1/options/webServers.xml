@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2de900b7-5563-4499-8a37-169e2af78b19" name="the mAiNFrAmE (2de900b7-5563-4499-8a37-169e2af78b19)" url="http:///">
+        <fileTransfer accessType="SFTP" host="schizo.cs.byu.edu" port="22" sshConfigId="d171a23e-c2a4-444c-8c39-272964aa94aa" sshConfig="cc845@schizo.cs.byu.edu:22 password" />
+      </webServer>
+      <webServer id="f4036250-126d-45a4-8960-edcda5231e05" name="the mAiNFrAmE (f4036250-126d-45a4-8960-edcda5231e05)" url="http:///">
+        <fileTransfer accessType="SFTP" host="schizo.cs.byu.edu" port="22" sshConfigId="d171a23e-c2a4-444c-8c39-272964aa94aa" sshConfig="cc845@schizo.cs.byu.edu:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
