@@ -32,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project-0-main/BookCreator.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="880">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16019000" />
+    <option name="totallyTimeSpent" value="16122000" />
   </component>
   <component name="ToolWindowManager">
     <layout>
@@ -138,10 +138,10 @@
       <value>Commit</value>
       <value>Run</value>
       <value>Messages</value>
-      <value>Project</value>
-      <value>Debug</value>
       <value>Terminal</value>
       <value>CMake</value>
+      <value>Project</value>
+      <value>Debug</value>
       <value>Version Control</value>
       <value>File Transfer</value>
     </recentWindows>
@@ -172,26 +172,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="430" height="79" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1630725130550" />
-    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl" timestamp="1630704958899">
+    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl" timestamp="1631638967161">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1630704958899" />
-    <state width="1870" height="264" key="GridCell.Tab.0.bottom" timestamp="1630729559529">
+    <state x="748" y="323" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1631638967161" />
+    <state width="1870" height="320" key="GridCell.Tab.0.bottom" timestamp="1631638968444">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559529" />
-    <state width="1870" height="264" key="GridCell.Tab.0.center" timestamp="1630729559528">
+    <state width="1870" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1631638968444" />
+    <state width="1870" height="320" key="GridCell.Tab.0.center" timestamp="1631638968443">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559528" />
-    <state width="1870" height="264" key="GridCell.Tab.0.left" timestamp="1630729559528">
+    <state width="1870" height="320" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1631638968443" />
+    <state width="1870" height="320" key="GridCell.Tab.0.left" timestamp="1631638968443">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559528" />
-    <state width="1870" height="264" key="GridCell.Tab.0.right" timestamp="1630729559529">
+    <state width="1870" height="320" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1631638968443" />
+    <state width="1870" height="320" key="GridCell.Tab.0.right" timestamp="1631638968443">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1630729559529" />
+    <state width="1870" height="320" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1631638968443" />
     <state width="1870" height="264" key="GridCell.Tab.1.bottom" timestamp="1630729559531">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -216,10 +216,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="286" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1630728426336" />
-    <state x="748" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630707691832">
+    <state x="749" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631638935552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="748" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1630707691832" />
+    <state x="749" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1631638935552" />
     <state x="830" y="458" key="publish.login" timestamp="1630706013237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -349,15 +349,15 @@
         <state relative-caret-position="-1087" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input2.txt">
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/answer2.txt">
+    <entry file="file://$PROJECT_DIR$/project-0-main/Lab0PassOffCases/input2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project-0-main/BookCreator.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="880">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>

@@ -240,6 +240,7 @@
       "event_id" : [ "{enum#setting}.{enum#state}", "numberOfLinkedProject.{regexp#count}", "modules.count.{regexp#count}", "{enum#__event_id}" ],
       "event_data" : {
         "count" : [ "{regexp#integer}" ],
+        "count_rounded" : [ "{regexp#integer}" ],
         "enabled" : [ "{enum#boolean}" ],
         "externalSystemId" : [ "{enum#build_tools}" ],
         "value" : [ "{enum:all|selective|none}" ]
@@ -4524,5 +4525,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "2064"
+  "version" : "2081"
 }

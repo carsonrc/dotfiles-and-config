@@ -1,13 +1,13 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1870" height="264" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1870" height="264" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="621" height="933" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="621" height="933" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="621" height="933" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="621" height="933" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1870" height="394" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1870" height="394" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1870" height="394" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1870" height="394" />
     <size key="GridCell.Tab.0.left.0.0.3840.1080" width="1850" height="382" />
     <size key="GridCell.Tab.0.center.0.0.3840.1080" width="1850" height="382" />
     <size key="GridCell.Tab.0.right.0.0.3840.1080" width="1850" height="382" />
@@ -44,7 +44,7 @@
     <size key="GridCell.Tab.1.bottom.0.0.3000.1920" width="1034" height="404" />
   </component>
   <component name="WindowManager">
-    <frame x="2" y="22" width="956" height="1056" extendedState="6" />
+    <frame x="2" y="45" width="1916" height="1033" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />

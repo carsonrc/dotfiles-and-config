@@ -124,13 +124,25 @@
         </entry>
         <entry key="$USER_HOME$/Documents/Notes/CS236/byucs">
           <value>
-            <RecentProjectMetaInfo frameTitle="byucs – Book.cpp" opened="true" projectWorkspaceId="1xcHi6bS5TPYlV4aUI7ZbVcTLLO">
+            <RecentProjectMetaInfo frameTitle="byucs – Book.cpp" projectWorkspaceId="1xcHi6bS5TPYlV4aUI7ZbVcTLLO">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="CL-211.7628.27" />
               <option name="buildTimestamp" value="1625168502603" />
-              <frame x="2" y="22" width="956" height="1056" extendedState="6" />
+              <frame x="2" y="22" width="1916" height="1056" extendedState="6" />
               <option name="productionCode" value="CL" />
               <option name="projectOpenTimestamp" value="1630647581434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Notes/CS236/byucs/project-1-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="project-1-main" opened="true" projectWorkspaceId="1y8h9Fa6FLGHZZBpCPOr1pXwCfo">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.7628.27" />
+              <option name="buildTimestamp" value="1625168468832" />
+              <frame x="2" y="45" width="1916" height="1033" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1631638968777" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
